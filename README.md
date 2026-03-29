@@ -9,7 +9,7 @@ Work From Home trends and Sick Leave patterns across
 the organization for Apr-Jun 2022.
 
 ## 📊 Dashboard Overview
-![Presence Insights](Presence_insights.png)
+![Presence Insights](Presence_insights_1.png)
 
 ## 🔍 Key Insights
 - Overall Presence: 91.83%
